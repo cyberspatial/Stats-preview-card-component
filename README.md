@@ -12,7 +12,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -35,12 +35,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [https://github.com/cyberspatial/Stats-preview-card-component](https://your-solution-url.com)
+- Live Site URL: [https://cyberspatial.github.io/Stats-preview-card-component/](https://your-live-site-url.com)
 
 ## My process
 - Build by mobile-first workflow.
-- Using media queries to change content according to the device width.
+- Used media queries to change content according to the device width.
  
 
 ### Built with
