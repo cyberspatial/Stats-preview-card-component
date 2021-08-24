@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/cyberspatial/Stats-preview-card-component](https://your-solution-url.com)
-- Live Site URL: [https://cyberspatial.github.io/Stats-preview-card-component/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/cyberspatial/Stats-preview-card-component](https://github.com/cyberspatial/Stats-preview-card-component)
+- Live Site URL: [https://cyberspatial.github.io/Stats-preview-card-component/](https://cyberspatial.github.io/Stats-preview-card-component/)
 
 ## My process
 - Build by mobile-first workflow.
